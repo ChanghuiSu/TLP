@@ -10,6 +10,7 @@ conda activate tlp
 ```
 - Install Dependencies
 ```
+conda install pytorch==1.13.0 torchvision==0.14.0 pytorch-cuda=11.6 -c pytorch -c nvidia
 pip install -r requirements.txt
 ```
 
