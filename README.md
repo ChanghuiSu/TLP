@@ -52,7 +52,7 @@ python3 test.py --dataroot /path/to/your/dataset/
 ```
 
 ##  5. Trained models
-You can download our trained model weights from here[here](https://drive.google.com/drive/folders/1YuOdo0ZkL6kNok4slQcICojLpNfU9Sk0?usp=drive_link)
+You can download our trained model weights from [here](https://drive.google.com/drive/folders/1YuOdo0ZkL6kNok4slQcICojLpNfU9Sk0?usp=drive_link)
 
 ## Citation
 If you find our work useful for your research, please cite our paper. 
